@@ -1,1 +1,3 @@
-To be uploaded after accepted and presented in a conference.
+# README
+
+**Our paper has been accepted for presentation in ICCIT 2019**
