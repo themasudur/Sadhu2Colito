@@ -2,6 +2,7 @@
 
 **This project is a part of our Bangla Natural Language Processing Research work. We were planning to develop a system which can handle Bangla verbs in a sentence and can convert verbs written in sadhu form to cholito form of Bangla language.**
 
+- [Paper link](#paper)
 - [Abstract](#abstract)
 - [Keywords](#keywords)
 - [Introduction](#introduction)
@@ -9,6 +10,11 @@
 - [Algorithm 1](#algorithm-1)
 - [Algorithm 2](#algorithm-2)
 - [Cite this publication](#cite-this-publication)
+
+## Paper
+<a href="[about.html](https://ieeexplore.ieee.org/abstract/document/9038570" title="Paper">Read the paper here</a>
+
+
 
 ## Abstract
 Bengali language follows Subject-Object-Verb (SOV) structure for constructing sentences where verb plays a crucial role. Machine translation for Bengali becomes easier if the verb is identified correctly in a semantically valid sentence. However, Bengali verbs are affected by various complex inflections while using in a sentence. Those inflections are determined according to tense (time of occurring event), person (nature of the subject), Sadhu and Cholito forms (historic evolution of writing styles of Bengali) of language. In this study, we propose an algorithm to identify different inflections of Bengali verbs to retrieve verb roots and present an approach to convert Sadhu to Cholito form of writing Bengali sentences. The methodology shows satisfying accuracy and fluency in the context of language evaluation.
