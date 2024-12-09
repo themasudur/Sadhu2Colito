@@ -12,7 +12,7 @@
 - [Cite this publication](#cite-this-publication)
 
 ## Paper
-Read te paper from [here](https://ieeexplore.ieee.org/abstract/document/9038570").
+Read te paper from [here](https://ieeexplore.ieee.org/abstract/document/9038570).
 
 
 ## Abstract
