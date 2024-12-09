@@ -12,8 +12,7 @@
 - [Cite this publication](#cite-this-publication)
 
 ## Paper
-<a href="[about.html](https://ieeexplore.ieee.org/abstract/document/9038570" title="Paper">Read the paper here</a>
-
+Read te paper from [here](https://ieeexplore.ieee.org/abstract/document/9038570").
 
 
 ## Abstract
